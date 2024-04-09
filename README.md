@@ -1,6 +1,6 @@
 # UART-Protocol-
 
-This repository contains a Verilog implementation of a UART (Universal Asynchronous Receiver-Transmitter).
+This repository contains a Verilog implementation of a UART (Universal Asynchronous Receiver-Transmitter) protocol.
 
 # Features
 Full-duplex communication.
