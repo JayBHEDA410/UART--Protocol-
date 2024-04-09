@@ -12,9 +12,9 @@ This repository contains a Verilog implementation of a UART (Universal Asynchron
 # Files
 README.md: This file, contains information about the project.
 
-transmitter_test/: Folder containing Verilog testbenches to validate the transmitter module.
+transmitter_test/: Folder containing Verilog testbench to validate the transmitter module.
 
-receiver_test/: Folder containing Verilog testbenches to validate the receiver module.
+receiver_test/: Folder containing Verilog testbench to validate the receiver module.
 
 
 # Testing
