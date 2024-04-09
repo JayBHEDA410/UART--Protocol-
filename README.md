@@ -10,7 +10,7 @@ Configurable baud rate, data bits(5-8) and stop bits(1-2).
 FIFO-based transmit and receive buffers.
 
 # Files
-README.md: This file, containing information about the project.
+README.md: This file, contains information about the project.
 
 transmitter_test/: Folder containing Verilog testbenches to validate the transmitter module.
 
